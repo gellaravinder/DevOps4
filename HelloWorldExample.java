@@ -13,8 +13,6 @@ public class HelloWorldExample{
     System.out.println("Hello Vinod !");
     System.out.println("Hello Rajesh !");
     System.out.println("Hello Ravi !");
-    System.out.println("Hello World !");
-    System.out.println("Hello World !");
 
  
   }
